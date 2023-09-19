@@ -15,3 +15,22 @@ C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213
 C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\NEWPROJECT\obj\Debug\NEWPROJECT.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\NEWPROJECT\obj\Debug\NEWPROJECT.exe
 C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\NEWPROJECT\obj\Debug\NEWPROJECT.pdb
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\bin\Debug\NEWPROJECT.exe.config
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\bin\Debug\NEWPROJECT.exe
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\bin\Debug\NEWPROJECT.pdb
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\View\myIssue.g.cs
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\App.g.cs
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT_MarkupCompile.cache
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT_MarkupCompile.lref
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\View\myIssue.baml
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.g.resources
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.Properties.Resources.resources
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.exe
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.pdb
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\View\Reg.g.cs
