@@ -13,7 +13,7 @@
         Background="Transparent"
         AllowsTransparency="True"
         >
-
+<!--
         <Border CornerRadius="12">
             <Border.Background>
                 <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
@@ -423,5 +423,5 @@
                 </Grid>
             </Border>
 
-        </Border>
+        </Border>-->
     </Window>
