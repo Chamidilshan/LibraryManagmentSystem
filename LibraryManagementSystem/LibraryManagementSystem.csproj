@@ -63,6 +63,9 @@
     <Compile Include="View\MyIssues.xaml.cs">
       <DependentUpon>MyIssues.xaml</DependentUpon>
     </Compile>
+    <Compile Include="View\UserProfile.xaml.cs">
+      <DependentUpon>UserProfile.xaml</DependentUpon>
+    </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -80,6 +83,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="View\MyIssues.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\UserProfile.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
