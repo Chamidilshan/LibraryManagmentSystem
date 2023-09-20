@@ -63,6 +63,9 @@
     <Compile Include="ViewModel\IssueViewModel.cs" />
     <Compile Include="ViewModel\ModelViewBase.cs" />
     <Compile Include="ViewModel\RealyCommand.cs" />
+    <Compile Include="View\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\myIssue.xaml.cs">
       <DependentUpon>myIssue.xaml</DependentUpon>
     </Compile>
@@ -81,6 +84,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="View\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="View\myIssue.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -129,10 +136,16 @@
     <Resource Include="Image\b1.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="View\image 1.jpg" />
-    <Resource Include="View\image 2.jpg" />
-    <Resource Include="View\image 3.jpg" />
-    <Resource Include="View\image 4.jpg" />
+    <Resource Include="Image\image 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\image 2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\image 3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\image 4.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

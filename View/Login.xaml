@@ -1,0 +1,83 @@
+﻿<Window x:Class="LibrarySystem.view.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibrarySystem.view"
+        mc:Ignorable="d"
+        Title="login" Height="768" Width="1024"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+
+    <Grid>
+        <Grid>
+            <Grid HorizontalAlignment="Center" Height="75" Margin="0,693,0,0" VerticalAlignment="Top" Width="1024" Background="#202027"/>
+            <Image Source="/image/image 2.jpg" Margin="698,688,275,10" />
+            <Image Source="/image/image 3.jpg" Margin="783,688,190,10" />
+            <Image Source="/image/image 4.jpg" Margin="871,688,102,10" />
+            <Grid HorizontalAlignment="Center" Height="693" VerticalAlignment="Top" Width="1024" Background="#2F3038">
+                <Image Source="/image/image 1.jpg" Margin="127,10,806,622" />
+                <TextBlock HorizontalAlignment="Left" Margin="112,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="62" Width="161" Foreground="White" Text="Welcome" FontSize="45"/>
+                <TextBlock HorizontalAlignment="Left" Margin="273,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="79" Width="161" Foreground="#FFC623CC" Text="Back!" FontSize="63" FontWeight="Bold"/>
+                <Ellipse HorizontalAlignment="Left" Height="199" Margin="850,442,0,0"  VerticalAlignment="Top" Width="206" Fill="#FF432E4C"/>
+                <Grid HorizontalAlignment="Left" Height="70" Margin="154,29,0,0" VerticalAlignment="Top" Width="70"/>
+
+                <Grid HorizontalAlignment="Left" Height="599" Margin="500,64,0,0" VerticalAlignment="Top" Width="445"  Background="#202027">
+                    <TextBlock HorizontalAlignment="Left" Margin="45,70,0,0" TextWrapping="Wrap" Text="Registration_no :" VerticalAlignment="Top" Foreground="#FFF4F5F9" FontSize="25"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="45,260,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FFF4F5F9" FontSize="25" Width="176" Height="42" Text="Password  :"/>
+                    <TextBox HorizontalAlignment="Left" Margin="45,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="347" Height="37" FontSize="20" Background="Transparent" Foreground="White" RenderTransformOrigin="0.5,0.5">
+                        <TextBox.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform/>
+                                <TranslateTransform X="0"/>
+                            </TransformGroup>
+                        </TextBox.RenderTransform>
+                    </TextBox>
+                    <PasswordBox HorizontalAlignment="Left" Margin="45,320,0,0" VerticalAlignment="Top" Width="347" Height="37" FontSize="20" Background="Transparent" Foreground="White"/>
+                    <Button Content="Login" HorizontalAlignment="Left" Margin="45,456,0,0" VerticalAlignment="Top" Height="50" Width="347" FontSize="25" Background="#FF1660A3" Foreground="White"/>
+                    <RadioButton Content="Admin" HorizontalAlignment="Left" Margin="85,400,0,0" VerticalAlignment="Top" Height="24" Background="White" Foreground="White" FontSize="15" RenderTransformOrigin="0.5,0.5" Grid.Column="0"/>
+                    <RadioButton Content="User" HorizontalAlignment="Left" Margin="289,400,0,0" VerticalAlignment="Top" Height="24" Background="White" Foreground="White" FontSize="15" RenderTransformOrigin="0.5,0.5" Grid.Column="0"/>
+                </Grid>
+                <Grid>
+
+                </Grid>
+                <TextBlock HorizontalAlignment="Left" Margin="133,301,0,0" TextWrapping="Wrap" Text="#I" VerticalAlignment="Top" Height="41" Width="30" FontSize="25" FontWeight="Bold">
+                    <TextBlock.Foreground>
+                        <RadialGradientBrush>
+                            <GradientStop Color="White"/>
+                            <GradientStop Color="#FFC623CC" Offset="0.189"/>
+                        </RadialGradientBrush>
+                    </TextBlock.Foreground>
+                </TextBlock>
+                <TextBlock HorizontalAlignment="Left" Margin="157,301,0,0" TextWrapping="Wrap" Text="ssue new books" VerticalAlignment="Top" Height="42" Width="180" FontSize="25" Foreground="#FFF5F9F9"/>
+                <TextBlock HorizontalAlignment="Left" Margin="133,348,0,0" TextWrapping="Wrap" Text="#" VerticalAlignment="Top" Height="41" Width="15" FontSize="25" FontWeight="Bold" Foreground="#FFF5F9F9"/>
+                <TextBlock HorizontalAlignment="Left" Margin="133,394,0,0" TextWrapping="Wrap" Text="#R" VerticalAlignment="Top" Height="41" Width="37" FontSize="25" FontWeight="Bold">
+                    <TextBlock.Foreground>
+                        <RadialGradientBrush>
+                            <GradientStop Color="White" Offset="0.026"/>
+                            <GradientStop Color="#FFC623CC" Offset="0.045"/>
+                        </RadialGradientBrush>
+                    </TextBlock.Foreground>
+                </TextBlock>
+                <TextBlock HorizontalAlignment="Left" Margin="167,392,0,0" TextWrapping="Wrap" Text="eturen Issue" VerticalAlignment="Top" Height="42" Width="237" FontSize="25" Foreground="#FFF5F9F9"/>
+                <TextBlock HorizontalAlignment="Left" Margin="162,348,0,0" TextWrapping="Wrap" Text="rending books" VerticalAlignment="Top" Height="42" Width="180" FontSize="25" Foreground="#FFF5F9F9"/>
+                <TextBlock HorizontalAlignment="Left" Margin="148,348,0,0" TextWrapping="Wrap" Text="T" VerticalAlignment="Top" Height="42" Width="27" FontSize="25" FontWeight="Bold" Foreground="#FFC623CC"/>
+                <TextBlock HorizontalAlignment="Left" Margin="235,425,0,0" TextWrapping="Wrap" Text="and much more..... " VerticalAlignment="Top" Height="42" Width="237" FontSize="25" Foreground="#FFF5F9F9"/>
+                <Ellipse Height="60"  Width="60" Margin="359,316,605,317" Fill="#FF432E4C"/>
+                <Ellipse HorizontalAlignment="Left" Height="199" Margin="-66,29,0,0"  VerticalAlignment="Top" Width="206" Fill="#FF2B3749"/>
+                <TextBlock HorizontalAlignment="Left" Margin="235,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="31" Width="134" Foreground="White" Text="Librarian" FontSize="20"/>
+                <TextBlock HorizontalAlignment="Left" Margin="722,594,0,0" TextWrapping="Wrap" Text="New User, Register" VerticalAlignment="Top" Height="24" Width="206" Foreground="#FF1762A7" TextAlignment="Center" FontSize="16" TextDecorations="Underline"/>
+
+            </Grid>
+            <Button Content="About Us" HorizontalAlignment="Left" Margin="52,712,0,0" VerticalAlignment="Top" Width="94" Background="Transparent" Foreground="White"  BorderThickness="0" Height="36" FontSize="15" />
+            <Button Content="Contact Us" HorizontalAlignment="Left" Margin="176,712,0,0" VerticalAlignment="Top" Width="113" Background="Transparent" Foreground="White" BorderThickness="0" Height="36" FontSize="15" />
+            <Grid/>
+
+        </Grid>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="1138,470,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -15,18 +15,13 @@ using System.Windows.Shapes;
 namespace NEWPROJECT.View
 {
     /// <summary>
-    /// Interaction logic for Reg.xaml
+    /// Interaction logic for registation.xaml
     /// </summary>
-    public partial class Reg : Window
+    public partial class registation : Window
     {
-        public Reg()
+        public registation()
         {
             InitializeComponent();
-        }
-
-        private void InitializeComponent()
-        {
-            throw new NotImplementedException();
         }
     }
 }

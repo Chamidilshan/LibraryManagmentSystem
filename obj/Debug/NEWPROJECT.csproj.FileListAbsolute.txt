@@ -34,3 +34,6 @@ C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.csproj.Cor
 C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.exe
 C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\NEWPROJECT.pdb
 C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\View\Reg.g.cs
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\View\Reg.baml
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\View\Login.g.cs
+C:\Users\ASUS\Desktop\RAD\LibraryManagmentSystem\obj\Debug\View\Login.baml
