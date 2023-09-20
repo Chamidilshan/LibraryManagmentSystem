@@ -132,5 +132,35 @@
   <ItemGroup>
     <Resource Include="Image3.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\image_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\Vector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\ant-design_book-filled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\dashicons_clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\ic_outline-assignment-return.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\akar-icons_google-contained-fill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\akar-icons_facebook-fill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\bx_bxs-phone-outgoing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\image 8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="View\image 11.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
