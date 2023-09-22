@@ -1,0 +1,52 @@
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\bin\Debug\LibraryMgtsys.exe.config
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\bin\Debug\LibraryMgtsys.exe
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\bin\Debug\LibraryMgtsys.pdb
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\bin\Debug\Guna.UI2.dll
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.Properties.Resources.resources
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.CopyComplete
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.exe
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.pdb
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.HOME.resources
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.Login.resources
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.Register.resources
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.User.resources
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.Profile.resources
+C:\Users\Asus\Desktop\UOR\Level02\Level 02 semester 02\Rapid application scs2213\RAD_project\LibraryMgtsys\obj\Debug\LibraryMgtsys.Admin.resources
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\bin\Debug\LibraryMgtsys.exe.config
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\bin\Debug\LibraryMgtsys.exe
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\bin\Debug\LibraryMgtsys.pdb
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\bin\Debug\Guna.UI2.dll
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.AssemblyReference.cache
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.Admin.resources
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.HOME.resources
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.Login.resources
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.Profile.resources
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.Properties.Resources.resources
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.Register.resources
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.User.resources
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.GenerateResource.cache
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.CoreCompileInputs.cache
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.CopyComplete
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.exe
+C:\Users\Amila\Desktop\SF LIBRARY\LibraryMgtsys\obj\Debug\LibraryMgtsys.pdb
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\bin\Debug\LibraryMgtsys.exe.config
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\bin\Debug\LibraryMgtsys.exe
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\bin\Debug\LibraryMgtsys.pdb
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\bin\Debug\Guna.UI2.dll
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.AssemblyReference.cache
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.SuggestedBindingRedirects.cache
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.Admin.resources
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.HOME.resources
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.Login.resources
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.Profile.resources
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.Properties.Resources.resources
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.Register.resources
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.User.resources
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.GenerateResource.cache
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.CoreCompileInputs.cache
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.csproj.CopyComplete
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.exe
+D:\Telegram Desktop\LibraryMgtsys (2)\LibraryMgtsys\obj\Debug\LibraryMgtsys.pdb
